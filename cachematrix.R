@@ -1,4 +1,4 @@
-This function is the MakeCacheMatrix Function
+The functions are the MakeCacheMatrix Function and cacheSolve function respectively
 
 The makeCacheMatrix sets the value of the matrix as well as help get the value of the matrix
 
